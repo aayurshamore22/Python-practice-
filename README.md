@@ -1,40 +1,55 @@
-Python Practice
+# Python Practice
 
-Hello! My name is Aayursha More.
+Hi, I'm Aayursha More 👋
 
-I am a B.Sc. IT student learning Python programming.
+🎓 First-Year B.Sc. IT Student
+🐍 Learning Python Programming
+💻 Building projects to prepare for software development internships.
 
 ## Programs
 
-- age_check.py
-- bonus_program.py
-- calculator.py
-- countdown_loop.py
-- divisible.py
-- electricity_bill.py
-- 0even_odd.py
-- factorial.py
-- greatest_threeNumber.py
+## Basic Programs
 - hello.py
 - info.py
 - input.py
-- largest.py
-- leap_year.py
-- login_system.py
-- math.py
-- multi_number.py
-- n_number.py
-- numbers_1to100.py
-- odd_number.py
-- positive_negative.py
-- print_evennumber.py
-- print_number.py
-- reverse_countdown.py
-- star_pattern.py
-- student.py
-- sum_1st10_numbers.py
-- vowel_or_consonant.py
+- calculator.py
 
+## Conditional Statements
+- age_check.py
+- even_odd.py
+- leap_year.py
+- divisible.py
+- positive_negative.py
+
+## Loops
+- countdown_loop.py
+- reverse_countdown.py
+- numbers_1to100.py
+- print_evennumber.py
+- sum_1st10_numbers.py
+
+## Patterns
+- star_pattern.py
+
+## Practice Projects
+- login_system.py
+- electricity_bill.py
+
+## Skills
+
+- Python Basics
+- Variables & Data Types
+- Conditional Statements
+- Loops
+- Functions (Learning)
+- Git & GitHub
+ 
 ## Goal
 
-To improve my Python skills and prepare for internships and software development roles.
+My goal is to strengthen my Python programming skills, build real-world projects, and secure a Software Developer internship.
+
+## Progress
+
+- ✅ 30+ Python programs completed
+- 🔄 Currently learning Functions
+- 🎯 Next: File Handling and Object-Oriented Programming
