@@ -1,11 +1,11 @@
-# Python Practice
+ Python Practice Repository 🐍
 
 Hi, I'm Aayursha More 👋
 
 🎓 First-Year B.Sc. IT Student
 🐍 Learning Python Programming
-💻 Building projects to prepare for software development internships.
-
+💻 Solving Python problems and building projects
+🚀 Working towards becoming a Software Developer
 ## Programs
 
 ## Basic Programs
@@ -37,19 +37,36 @@ Hi, I'm Aayursha More 👋
 
 ## Skills
 
-- Python Basics
-- Variables & Data Types
-- Conditional Statements
-- Loops
-- Functions (Learning)
-- Git & GitHub
+✔ Python Basics
+✔ Variables & Data Types
+✔ Conditional Statements
+✔ Loops
+✔ Functions
+✔ Git & GitHub
+✔ Problem Solving
  
 ## Goal
 
-My goal is to strengthen my Python programming skills, build real-world projects, and secure a Software Developer internship.
+My goal is to become a Software Developer by building real-world Python projects, improving problem-solving skills, and securing a software development internship.
 
 ## Progress
 
-- ✅ 30+ Python programs completed
-- 🔄 Currently learning Functions
-- 🎯 Next: File Handling and Object-Oriented Programming
+✅ 50+ Python programs completed
+✅ Practicing Python Functions
+🚀 Building my first Python project
+📚 Currently learning C Programming and DBMS
+🎯 Next: File Handling → OOP → Mini Projects
+
+## Upcoming Projects
+
+- 📁 Smart File Organizer
+- 🔐 Password Manager
+- 📝 Student Record Manager
+- 📊 Expense Tracker
+
+## Technologies
+
+- Python
+- VS Code
+- Git
+- GitHub
