@@ -23,9 +23,14 @@ Hi, I'm Aayursha More 👋
 
 ## Loops
 - countdown_loop.py
+- count_digits.py
+- multiply_table.py
+- factorial
 - reverse_countdown.py
+- n_number.py
 - numbers_1to100.py
 - print_evennumber.py
+- print_number.py
 - sum_1st10_numbers.py
 
 ## Patterns
